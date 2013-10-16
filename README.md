@@ -3,8 +3,6 @@ BlockAlertView
 
 ```BlockAlertView``` is a subclass of ```UIAlertView``` with a completion block instead of assign a delegate.
 
-ARC only
-
 Usage
 --
 
