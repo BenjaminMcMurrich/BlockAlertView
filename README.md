@@ -1,7 +1,10 @@
 BlockAlertView
 ==============
 
-Use
+```BlockAlertView``` is a subclass of ```UIAlertView``` with a completion block.
+ARC only
+
+Usage
 --
 
 ```
