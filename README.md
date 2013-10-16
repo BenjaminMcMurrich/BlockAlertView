@@ -6,12 +6,12 @@ Use
 
 ```
 BlockAlertView *alert = [[BlockAlertView alloc]initWithTitle:@"Hey!"
-                                               message:@"Hello World"
-                                              delegate:nil
-                                     cancelButtonTitle:@"Cancel"
-                                     otherButtonTitles:@"Ok", nil];
+                                                     message:@"Hello World"
+                                                    delegate:nil
+                                           cancelButtonTitle:@"Cancel"
+                                           otherButtonTitles:@"Ok", nil];
     
-[alert showWithCallback:^(UIAlertView *alertView, NSInteger buttonIndex) {
+[alert showWithCompletionBlock:^(UIAlertView *alertView, NSInteger buttonIndex) {
     //do somthing here
 }];
 ```
