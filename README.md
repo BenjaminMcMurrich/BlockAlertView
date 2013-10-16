@@ -12,7 +12,7 @@ BlockAlertView *alert = [[BlockAlertView alloc]initWithTitle:@"Hey!"
                                            otherButtonTitles:@"Ok", nil];
     
 [alert showWithCompletionBlock:^(UIAlertView *alertView, NSInteger buttonIndex) {
-    //do somthing here
+    //do somthing here...
 }];
 ```
 
