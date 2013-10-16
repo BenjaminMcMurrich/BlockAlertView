@@ -1,7 +1,8 @@
 BlockAlertView
 ==============
 
-```BlockAlertView``` is a subclass of ```UIAlertView``` with a completion block.
+```BlockAlertView``` is a subclass of ```UIAlertView``` with a completion block instead of assign a delegate.
+
 ARC only
 
 Usage
@@ -18,6 +19,9 @@ BlockAlertView *alert = [[BlockAlertView alloc]initWithTitle:@"Hey!"
     //do somthing here...
 }];
 ```
+
+Credits
+--
 
 Web: [myioslab.com][1]  
 Twitter: [@MyiOSLab][2]  
