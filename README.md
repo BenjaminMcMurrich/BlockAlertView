@@ -21,10 +21,10 @@ BlockAlertView *alert = [[BlockAlertView alloc]initWithTitle:@"Hey!"
 Credits
 --
 
-Web: [myioslab.com][1]  
-Twitter: [@MyiOSLab][2]  
-Facebook: [facebook.com/myioslab][3]  
+Web: [mcmurrich.fr][1]  
+Twitter: [@ben_mcm][2]  
+Facebook: [facebook.com/benjamin.mcmurrich][3]  
   
-  [1]: http://www.myioslab.com "MyiOSLab.com"
-  [2]: http://twitter.com/myioslab "MyiOSLab on Twitter"
-  [3]: http://www.facebook.com/myioslab "MyiOSLab on Facebook"
+  [1]: http://www.mcmurrich.fr "mcmurrich.fr"
+  [2]: http://twitter.com/ben_mcm "Ben on Twitter"
+  [3]: http://www.facebook.com/benjamin.mcmurrich "Ben on Facebook"
